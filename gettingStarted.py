@@ -37,6 +37,7 @@ if __name__ == "__main__":
     print(welcome_assignment_answers(debug_question))
 
 #Questions:
+
 #"In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
 #"Are encoding and encryption the same? - Yes/No": No
 #"Is it possible to decrypt a message without a key? - Yes/No": No
